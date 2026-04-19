@@ -2,6 +2,7 @@ datasets
 dff-env
 .venv
 venv
-checkpoints
+checkpoints/
 gan_progress_images
 lsgan_progress_images
+evaluation_results
