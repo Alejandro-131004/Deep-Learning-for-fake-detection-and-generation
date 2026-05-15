@@ -2,7 +2,15 @@ datasets
 dff-env
 .venv
 venv
-checkpoints/
+checkpoints/gan
+checkpoints/lsgan_cropped
+checkpoints/lsgan_noise
+checkpoints/lsgan
+checkpoints/Run_1_Baseline_Unweighted
+checkpoints/Run_2_Baseline_WeightedLoss
+checkpoints/Run_3_Augmented_Oversampled
+checkpoints/vae
+checkpoints/vae_improved
 progress_results/gan_progress_images
 progress_results/lsgan_cropped_progress_images
 progress_results/lsgan_noise_progress_images
