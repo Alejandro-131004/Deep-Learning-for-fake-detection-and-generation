@@ -3,5 +3,8 @@ dff-env
 .venv
 venv
 checkpoints/
-progress_results
-evaluation_results
+progress_results/gan_progress_images
+progress_results/lsgan_cropped_progress_images
+progress_results/lsgan_noise_progress_images
+progress_results/lsgan_progress_images
+progress_results/evaluation_results/raw_scores
